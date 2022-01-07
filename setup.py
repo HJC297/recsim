@@ -50,7 +50,7 @@ setup(
     description=recsim_description,
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/google-research/recsim',
+    url='https://github.com/HJC297/recsim',
     packages=find_packages(exclude=['docs']),
     classifiers=[  # Optional
         'Development Status :: 3 - Alpha',
