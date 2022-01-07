@@ -80,7 +80,7 @@ setup(
     project_urls={  # Optional
         'Documentation': 'https://github.com/google-research/recsim',
         'Bug Reports': 'https://github.com/google-research/recsim/issues',
-        'Source': 'https://github.com/google-research/recsim',
+        'Source': 'https://github.com/HJC297/recsim',
     },
     license='Apache 2.0',
     keywords='recsim reinforcement-learning recommender-system simulation'
