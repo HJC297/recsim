@@ -44,7 +44,7 @@ with open('README.md', 'r') as fh:
 
 setup(
     name='recsim',
-    version='0.2.4',
+    version='0.3',
     author='The RecSim Team',
     author_email='no-reply@google.com',
     description=recsim_description,
